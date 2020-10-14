@@ -1,6 +1,6 @@
 https://jfrog.com/open-source/
 https://api.bintray.com/content/jfrog/artifactory/org/artifactory/oss/jfrog-artifactory-oss/$latest/jfrog-artifactory-oss-$latest-linux.tar.gz?bt_package=jfrog-artifactory-oss
-
+https://jfrog.bintray.com/artifactory-rpms/jfrog-artifactory-oss-6.9.6.rpm
 
 JFrog Artifactory requires Java Development Kit (JDK) 8 update 45 or above.
 
